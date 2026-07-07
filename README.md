@@ -59,7 +59,7 @@ As dependências Python são instaladas automaticamente na primeira execução.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/MineRun.git
+git clone https://github.com/KevenCastilho/MineRun.git
 ```
 
 Entre na pasta:
